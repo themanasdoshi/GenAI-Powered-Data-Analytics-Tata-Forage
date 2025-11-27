@@ -1,15 +1,5 @@
 # GenAI-Powered-Data-Analytics-Tata-Forage
 
-Here is a professional `README.md` file tailored for the **Tata iQ GenAI Powered Data Analytics** simulation.
-
-This README highlights the unique aspect of this simulation: the integration of **Generative AI** into the data science workflow, which is a highly desirable skill for modern data roles.
-
------
-
-# Tata iQ: GenAI-Powered Credit Risk Analytics
-
-  
-
 ## 📄 Project Overview
 
 This repository documents my work as an **AI Transformation Consultant** for **Tata Insights and Quants (Tata iQ)**. In this simulation, I utilized Generative AI tools to enhance the data analytics lifecycle—from exploratory data analysis (EDA) to predictive modeling and strategic implementation.
